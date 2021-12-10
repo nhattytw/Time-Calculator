@@ -55,25 +55,3 @@ Write your code in `time_calculator.py`. For development, you can use `main.py` 
 ## Testing
 
 The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-## Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
-
-# --hints--
-
-It should correctly add times and pass all tests.
-
-```js
-
-```
-
-# --solutions--
-
-```js
-/**
-  Backend challenges don't need solutions,
-  because they would need to be tested against a full working project.
-  Please check our contributing guidelines to learn more.
-*/
-```
